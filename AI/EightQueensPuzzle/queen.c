@@ -35,7 +35,7 @@ void chessPrinter()
 bool isFree(int row, int col)
 { 
     int i, j;
-	bool success = true;
+    bool success = true;
 	
     /* Check this row on left side (between [col:N] no queen placed when routine is called) */
     for (i = 0; i < col; i++) 
@@ -116,8 +116,8 @@ bool findQueensRecursive(int column)
 			/* print the updated chess */
 			chessPrinter();
 		#endif
-        } 
-    } 
+        	} 
+    	} 
   
     /* When the queen has not good  row in this colum backtracking shall be triggered */
 #ifdef DEBUG_TRACE

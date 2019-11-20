@@ -1,0 +1,4 @@
+# useful link to learn C++ language (for italian people)
+
+-> http://www.bo.cnr.it/corsi-di-informatica/corsoCstandard/Lezioni/01Indice.html
+-> https://www.youtube.com/watch?v=BenArhKZFzA&list=PL0qAPtx8YtJdRGNvX1Cgb0fuR4Av9zWRn

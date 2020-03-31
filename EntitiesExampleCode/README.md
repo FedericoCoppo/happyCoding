@@ -135,8 +135,6 @@ The better solution, to avoid lossing in between committ, instead could be the f
 ## Run program
 The output of the program is the following:
 
-****************************************************************************************
-
 federico@federico-VirtualBox:~/Desktop/ML/LAST$ make
 g++  -std=c++17 -Wall List.cpp Entities.cpp -o main main.cpp
 federico@federico-VirtualBox:~/Desktop/ML/LAST$ ./main
@@ -229,4 +227,4 @@ removed entities from list:STORE
 |ID|:   17  |TITLE|:        Buy Cake  |DESC|:    made of chocolate!  |TM STAMP|:      22
 list is empty!
 
-****************************************************************************************
+

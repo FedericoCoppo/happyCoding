@@ -2,6 +2,7 @@
 Tools: Arduino Sketch and Microsoft Visual Studio Express (or Visual Studio Code or Visual Studio Community). 
 Note: no Arduino HW is needed.
 
+```
 Specification:
 1.	with Microsoft Visual Studio Express, create a solution with one C++ console application project. In file containing function main():
 	•	define abstract class Led:
@@ -47,7 +48,7 @@ Specification:
 	•	Windows: project must compile and run successfully;
 	•	Arduino: project must compile successful
 
-
+```
 ## Solution 1
 see LedApp application
 
